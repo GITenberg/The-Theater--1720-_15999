@@ -1,0 +1,27 @@
+_repo: The-Theater--1720-_15999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Falstaffe, John, Sir
+    alias: Falstaffe, Sir John
+    gutenberg_agent_id: '6422'
+    url: http://www.gutenberg.org/2009/agents/6422
+description: ''
+gutenberg_issued: '2005-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Great Britain -- History'
+- !lcc 'PR'
+- !lcsh 'English periodicals -- History'
+- !lcsh 'Theater -- Periodicals'
+title: The Theater (1720)
+url: http://www.gutenberg.org/ebooks/15999
